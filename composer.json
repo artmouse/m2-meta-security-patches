@@ -1,5 +1,5 @@
 {
-    "name": "samjuk/m2-meta-security-patches",
+    "name": "samjuk/m2-meta-security-patches-local",
     "description": "Composer meta-package that applies critical and isolated security patches for Magento 2 / Adobe Commerce, released by Adobe",
     "type": "library",
     "license": "MIT",
